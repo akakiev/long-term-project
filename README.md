@@ -52,6 +52,10 @@ TBD-step-1-information
 2. As part of this package, the SQLite  library (version 3.7.2) is included.  We gratefully acknowledge  xerial.org for creating this Java library:
    https://bitbucket.org/xerial/sqlite-jdbc/
 
+## Images:
+<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr1.jpg" height="300" width="400" /></p>
+<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr2.jpg" height="300" width="400" /></p>
+<p align="center"><img align="center" src="https://github.com/akakiev/long-term-project-map-java/blob/main/pr3.jpg" height="300" width="400" /></p>
 <footer>
 
 <!--
